@@ -12,8 +12,7 @@
 
 <!-- ===== Badges de contacto ===== -->
 <p align="center">
-  <!-- TODO: reemplaza TU-USUARIO por tu usuario de LinkedIn -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0B1D3A?style=for-the-badge&logo=linkedin&logoColor=F7B500" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raimundo-labbe-134528lv/"><img src="https://img.shields.io/badge/LinkedIn-0B1D3A?style=for-the-badge&logo=linkedin&logoColor=F7B500" alt="LinkedIn"/></a>
   <!-- TODO: reemplaza por el correo que quieras mostrar públicamente -->
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-0B1D3A?style=for-the-badge&logo=gmail&logoColor=F7B500" alt="Email"/></a>
   <a href="https://github.com/Nikola-BackOffice"><img src="https://img.shields.io/badge/Nikola-0B1D3A?style=for-the-badge&logo=github&logoColor=F7B500" alt="Nikola"/></a>

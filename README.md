@@ -25,8 +25,7 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
 - 🔭 Ahora mismo: desarrollando plataformas de backoffice en **Nikola**
 - 🎓 Formación: Ingeniería en la **Pontificia Universidad Católica de Chile** <!-- TODO: confirma o ajusta carrera/estado -->
 - 🌱 Aprendiendo: <!-- TODO: p. ej. testing end-to-end, arquitectura de microservicios, DevOps -->
-- 🤝 Abierto a: colaborar en proyectos open source y en productos con impacto energético/climático
-- ⚡ Dato curioso: <!-- TODO: algo personal breve -->
+- 🤝 Abierto a: colaborar en proyectos open source
 
 ## 🛠️ Stack
 

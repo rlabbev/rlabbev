@@ -1,15 +1,15 @@
 <!--
   Paleta (se adapta al tema del visitante con <picture>):
-  - Modo oscuro: azul #0A1A3F · vino #5C0A0A · acento #EF4444
-  - Modo claro:  azul #1E3A8A · rojo #991B1B · acento #991B1B
+  - Modo oscuro: rojo #E63946 → azul #1D4ED8 · fondo #161B22 · acento rojo
+  - Modo claro:  azul #2563EB → rojo #E63946 · acento azul
 -->
 
 <!-- ===== Banner ===== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:5C0A0A&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:991B1B&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:991B1B&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1D4ED8&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
   </picture>
 </p>
 
@@ -17,9 +17,9 @@
 <p align="center">
   <a href="https://github.com/rlabbev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=991B1B&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F"/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=991B1B&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F" alt="Typing SVG"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F" alt="Typing SVG"/>
     </picture>
   </a>
 </p>
@@ -28,31 +28,31 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/raimundo-labbe-134528lv/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A1A3F?style=for-the-badge&logo=linkedin&logoColor=EF4444"/>
-      <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E63946"/>
+      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </picture>
   </a>
   <!-- TODO: reemplaza por el correo que quieras mostrar públicamente -->
   <a href="mailto:TU-CORREO@ejemplo.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0A1A3F?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
-      <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E63946"/>
+      <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </picture>
   </a>
   <a href="https://github.com/Nikola-BackOffice">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Nikola-0A1A3F?style=for-the-badge&logo=github&logoColor=EF4444"/>
-      <img src="https://img.shields.io/badge/Nikola-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Nikola"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Nikola-161B22?style=for-the-badge&logo=github&logoColor=E63946"/>
+      <img src="https://img.shields.io/badge/Nikola-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Nikola"/>
     </picture>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Santiago,%20Chile-0A1A3F?style=for-the-badge&logo=googlemaps&logoColor=EF4444"/>
-    <img src="https://img.shields.io/badge/Santiago,%20Chile-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Santiago, Chile"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Santiago,%20Chile-161B22?style=for-the-badge&logo=googlemaps&logoColor=E63946"/>
+    <img src="https://img.shields.io/badge/Santiago,%20Chile-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Santiago, Chile"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rlabbev&label=Visitas&color=991B1B&style=flat-square" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=rlabbev&label=Visitas&color=E63946&style=flat-square" alt="Visitas"/>
 </p>
 
 ---
@@ -116,9 +116,9 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
 ### ☀️ [Nombre del proyecto](https://github.com/rlabbev/REPO)
 Qué problema resuelve en una línea.
 
-![Next.js](https://img.shields.io/badge/Next.js-0A1A3F?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0A1A3F?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/Prisma-0A1A3F?style=flat-square&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1D4ED8?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1D4ED8?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Prisma](https://img.shields.io/badge/Prisma-1D4ED8?style=flat-square&logo=prisma&logoColor=white)
 
 [🔗 Demo](https://...) · [📂 Código](https://github.com/rlabbev/REPO)
 
@@ -128,9 +128,9 @@ Qué problema resuelve en una línea.
 ### 📱 [Nombre del proyecto](https://github.com/rlabbev/REPO)
 Qué problema resuelve en una línea.
 
-![React Native](https://img.shields.io/badge/React_Native-0A1A3F?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-0A1A3F?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1A3F?style=flat-square&logo=typescript&logoColor=3178C6)
+![React Native](https://img.shields.io/badge/React_Native-1D4ED8?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1D4ED8?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=3178C6)
 
 [🔗 Demo](https://...) · [📂 Código](https://github.com/rlabbev/REPO)
 
@@ -175,8 +175,8 @@ Qué problema resuelve en una línea.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&locale=es"/>
-    <img src="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=FFFFFF&ring=991B1B&fire=991B1B&currStreakLabel=991B1B&sideLabels=1E3A8A&currStreakNum=1F2328&sideNums=1F2328&dates=57606A&stroke=D0D7DE&locale=es" alt="Racha de contribuciones"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&locale=es"/>
+    <img src="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=FFFFFF&ring=2563EB&fire=E63946&currStreakLabel=E63946&sideLabels=1D4ED8&currStreakNum=1F2328&sideNums=1F2328&dates=57606A&stroke=D0D7DE&locale=es" alt="Racha de contribuciones"/>
   </picture>
 </p>
 
@@ -187,7 +187,7 @@ Qué problema resuelve en una línea.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5C0A0A,100:0A1A3F&height=110&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,100:1E3A8A&height=110&section=footer" alt="Footer" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:E63946&height=110&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:2563EB&height=110&section=footer" alt="Footer" width="100%"/>
   </picture>
 </p>

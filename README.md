@@ -7,8 +7,8 @@
 <!-- ===== Banner ===== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1D4ED8&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E63946%2C100:1D4ED8&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB%2C100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
   </picture>
 </p>
@@ -46,7 +46,7 @@
     </picture>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Santiago,%20Chile-161B22?style=for-the-badge&logo=googlemaps&logoColor=E63946"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Santiago%2C%20Chile-161B22?style=for-the-badge&logo=googlemaps&logoColor=E63946"/>
     <img src="https://img.shields.io/badge/Santiago,%20Chile-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Santiago, Chile"/>
   </picture>
 </p>
@@ -85,12 +85,12 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,prisma,nodejs&theme=dark"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnestjs%2Cprisma%2Cnodejs&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,prisma,nodejs&theme=light" alt="Stack principal"/>
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,tailwind,docker,git,github,vercel&theme=dark"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Ctailwind%2Cdocker%2Cgit%2Cgithub%2Cvercel&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=postgres,tailwind,docker,git,github,vercel&theme=light" alt="Herramientas"/>
   </picture>
 </p>
@@ -187,7 +187,7 @@ Qué problema resuelve en una línea.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:E63946&height=110&section=footer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8%2C100:E63946&height=110&section=footer"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:2563EB&height=110&section=footer" alt="Footer" width="100%"/>
   </picture>
 </p>

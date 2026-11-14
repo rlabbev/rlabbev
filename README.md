@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:F7B500&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Energ%C3%ADa%20solar&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:F7B500&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 </p>
 
 <!-- ===== Texto animado ===== -->

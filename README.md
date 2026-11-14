@@ -130,8 +130,6 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
   </picture>
 </p>
 
-<sub>Se actualiza a diario desde el calendario público de GitHub, que incluye contribuciones en repos privados.</sub>
-
 <!-- ===== Footer ===== -->
 <p align="center">
   <b>¿Tienes una idea o un proyecto? Hablemos 🙌</b>

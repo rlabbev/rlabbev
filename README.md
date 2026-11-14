@@ -125,21 +125,12 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rlabbev&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rlabbev&theme=github" alt="Estadísticas" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rlabbev&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rlabbev&theme=github" alt="Lenguajes más usados" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg"/>
+    <img src="assets/contributions-light.svg" alt="Contribuciones del último año (incluye repos privados)" width="100%"/>
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=0D1117&ring=FB923C&fire=F97316&currStreakLabel=FB923C&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&locale=es"/>
-    <img src="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=FFFFFF&ring=EA580C&fire=EC4899&currStreakLabel=C2410C&sideLabels=C2410C&currStreakNum=1F2328&sideNums=1F2328&dates=57606A&stroke=D0D7DE&locale=es" alt="Racha de contribuciones"/>
-  </picture>
-</p>
+<sub>Se actualiza a diario desde el calendario público de GitHub, que incluye contribuciones en repos privados.</sub>
 
 <!-- ===== Footer ===== -->
 <p align="center">

@@ -1,0 +1,41 @@
+name: Tarjeta de contribuciones
+
+# Regenera assets/contributions-*.svg desde el calendario público de GitHub
+# (que ya incluye las contribuciones privadas). No necesita tokens personales.
+on:
+  schedule:
+    - cron: "17 6 * * *" # todos los días, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/contrib_card.py"
+      - ".github/workflows/contributions.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributions-card
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar tarjetas
+        run: python3 .github/scripts/contrib_card.py "${{ github.repository_owner }}" assets
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "chore: actualizar tarjeta de contribuciones"
+            git push
+          fi

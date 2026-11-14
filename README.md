@@ -39,12 +39,6 @@
       <img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </picture>
   </a>
-  <a href="https://github.com/Nikola-BackOffice">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Nikola-161B22?style=for-the-badge&logo=github&logoColor=FB923C"/>
-      <img src="https://img.shields.io/badge/Nikola-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="Nikola"/>
-    </picture>
-  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Santiago%2C%20Chile-161B22?style=for-the-badge&logo=googlemaps&logoColor=FB923C"/>
     <img src="https://img.shields.io/badge/Santiago,%20Chile-EA580C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Santiago, Chile"/>

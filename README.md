@@ -1,26 +1,26 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:F7B500&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:E63946&height=200&section=header&text=Raimundo%20Labb%C3%A9&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 </p>
 
 <!-- ===== Texto animado ===== -->
 <p align="center">
   <a href="https://github.com/rlabbev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=620&lines=TypeScript+de+punta+a+punta+%E2%9A%A1;React+%C2%B7+React+Native+%C2%B7+Next.js;NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Construyendo+software+para+energ%C3%ADa+solar+%E2%98%80%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
 <!-- ===== Badges de contacto ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/raimundo-labbe-134528lv/"><img src="https://img.shields.io/badge/LinkedIn-0B1D3A?style=for-the-badge&logo=linkedin&logoColor=F7B500" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raimundo-labbe-134528lv/"><img src="https://img.shields.io/badge/LinkedIn-0B1D3A?style=for-the-badge&logo=linkedin&logoColor=E63946" alt="LinkedIn"/></a>
   <!-- TODO: reemplaza por el correo que quieras mostrar públicamente -->
-  <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-0B1D3A?style=for-the-badge&logo=gmail&logoColor=F7B500" alt="Email"/></a>
-  <a href="https://github.com/Nikola-BackOffice"><img src="https://img.shields.io/badge/Nikola-0B1D3A?style=for-the-badge&logo=github&logoColor=F7B500" alt="Nikola"/></a>
-  <img src="https://img.shields.io/badge/Santiago,%20Chile-0B1D3A?style=for-the-badge&logo=googlemaps&logoColor=F7B500" alt="Santiago, Chile"/>
+  <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-0B1D3A?style=for-the-badge&logo=gmail&logoColor=E63946" alt="Email"/></a>
+  <a href="https://github.com/Nikola-BackOffice"><img src="https://img.shields.io/badge/Nikola-0B1D3A?style=for-the-badge&logo=github&logoColor=E63946" alt="Nikola"/></a>
+  <img src="https://img.shields.io/badge/Santiago,%20Chile-0B1D3A?style=for-the-badge&logo=googlemaps&logoColor=E63946" alt="Santiago, Chile"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rlabbev&label=Visitas&color=F7B500&style=flat-square" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=rlabbev&label=Visitas&color=E63946&style=flat-square" alt="Visitas"/>
 </p>
 
 ---
@@ -130,7 +130,7 @@ Qué problema resuelve en una línea.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=0B1D3A&ring=F7B500&fire=F7B500&currStreakLabel=F7B500&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc&locale=es" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=rlabbev&hide_border=true&background=0B1D3A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc&locale=es" alt="Racha de contribuciones"/>
 </p>
 
 <!-- ===== Footer ===== -->
@@ -139,5 +139,5 @@ Qué problema resuelve en una línea.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B500,100:0B1D3A&height=110&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1D4ED8&height=110&section=footer" alt="Footer" width="100%"/>
 </p>

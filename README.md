@@ -105,39 +105,6 @@ Me gusta llevar una idea a un producto usable: diseñar la API, modelar los dato
 
 <!-- TODO: ajusta íconos y tabla a lo que realmente usas. Lista de íconos: https://skillicons.dev -->
 
-## 🚀 Proyectos destacados
-
-<!-- TODO: reemplaza con 2–4 proyectos reales y fíjalos también en tu perfil (Customize your pins). -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☀️ [Nombre del proyecto](https://github.com/rlabbev/REPO)
-Qué problema resuelve en una línea.
-
-![Next.js](https://img.shields.io/badge/Next.js-C2410C?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-C2410C?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-C2410C?style=flat-square&logo=prisma&logoColor=white)
-
-[🔗 Demo](https://...) · [📂 Código](https://github.com/rlabbev/REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Nombre del proyecto](https://github.com/rlabbev/REPO)
-Qué problema resuelve en una línea.
-
-![React Native](https://img.shields.io/badge/React_Native-C2410C?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-C2410C?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-C2410C?style=flat-square&logo=typescript&logoColor=white)
-
-[🔗 Demo](https://...) · [📂 Código](https://github.com/rlabbev/REPO)
-
-</td>
-</tr>
-</table>
-
 ## 💼 Cómo trabajo
 
 <table>

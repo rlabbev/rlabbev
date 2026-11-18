@@ -2,10 +2,10 @@
 <style>.num{font:700 26px 'Segoe UI',Ubuntu,sans-serif;fill:#C2410C}.lbl{font:500 12px 'Segoe UI',Ubuntu,sans-serif;fill:#57606A}.ttl{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#1F2328}.sm{font:400 10px 'Segoe UI',Ubuntu,sans-serif;fill:#57606A}</style>
 <rect x="0.5" y="0.5" width="786" height="259" rx="10" fill="#FFFFFF" stroke="#E5E7EB"/>
 <text x="24" y="28" class="ttl">Contribuciones del último año</text>
-<text x="24" y="64" class="num">1.380</text><text x="24" y="86" class="lbl">contribuciones totales</text>
-<text x="208.75" y="64" class="num">1 días</text><text x="208.75" y="86" class="lbl">racha actual</text>
+<text x="24" y="64" class="num">1.401</text><text x="24" y="86" class="lbl">contribuciones totales</text>
+<text x="208.75" y="64" class="num">2 días</text><text x="208.75" y="86" class="lbl">racha actual</text>
 <text x="393.5" y="64" class="num">12 días</text><text x="393.5" y="86" class="lbl">racha más larga</text>
-<text x="578.25" y="64" class="num">146 días</text><text x="578.25" y="86" class="lbl">con actividad</text>
+<text x="578.25" y="64" class="num">147 días</text><text x="578.25" y="86" class="lbl">con actividad</text>
 <rect x="24" y="128" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 16 nov 2025</title></rect>
 <rect x="24" y="142" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 17 nov 2025</title></rect>
 <rect x="24" y="156" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 18 nov 2025</title></rect>
@@ -383,8 +383,9 @@
 <rect x="738" y="198" width="11" height="11" rx="2" fill="#FED7AA"><title>10 contribuciones el 13 nov 2026</title></rect>
 <rect x="738" y="212" width="11" height="11" rx="2" fill="#F97316"><title>21 contribuciones el 14 nov 2026</title></rect>
 <rect x="752" y="128" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 15 nov 2026</title></rect>
-<rect x="752" y="142" width="11" height="11" rx="2" fill="#FED7AA"><title>2 contribuciones el 16 nov 2026</title></rect>
-<rect x="752" y="156" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 17 nov 2026</title></rect>
+<rect x="752" y="142" width="11" height="11" rx="2" fill="#FED7AA"><title>7 contribuciones el 16 nov 2026</title></rect>
+<rect x="752" y="156" width="11" height="11" rx="2" fill="#FDBA74"><title>16 contribuciones el 17 nov 2026</title></rect>
+<rect x="752" y="170" width="11" height="11" rx="2" fill="#EEF0F3"><title>0 contribuciones el 18 nov 2026</title></rect>
 <text x="623" y="251" class="sm">Menos</text>
 <rect x="657" y="242" width="11" height="11" rx="2" fill="#EEF0F3"/>
 <rect x="671" y="242" width="11" height="11" rx="2" fill="#FED7AA"/>

@@ -3,7 +3,7 @@
 <rect x="0.5" y="0.5" width="786" height="259" rx="10" fill="#0D1117" stroke="#30363D"/>
 <text x="24" y="28" class="ttl">Contribuciones del último año</text>
 <text x="24" y="64" class="num">1.783</text><text x="24" y="86" class="lbl">contribuciones totales</text>
-<text x="208.75" y="64" class="num">10 días</text><text x="208.75" y="86" class="lbl">racha actual</text>
+<text x="208.75" y="64" class="num">0 días</text><text x="208.75" y="86" class="lbl">racha actual</text>
 <text x="393.5" y="64" class="num">12 días</text><text x="393.5" y="86" class="lbl">racha más larga</text>
 <text x="578.25" y="64" class="num">155 días</text><text x="578.25" y="86" class="lbl">con actividad</text>
 <rect x="24" y="128" width="11" height="11" rx="2" fill="#1F242C"><title>0 contribuciones el 23 nov 2025</title></rect>
@@ -387,6 +387,7 @@
 <rect x="752" y="156" width="11" height="11" rx="2" fill="#7C2D12"><title>11 contribuciones el 24 nov 2026</title></rect>
 <rect x="752" y="170" width="11" height="11" rx="2" fill="#C2410C"><title>18 contribuciones el 25 nov 2026</title></rect>
 <rect x="752" y="184" width="11" height="11" rx="2" fill="#1F242C"><title>0 contribuciones el 26 nov 2026</title></rect>
+<rect x="752" y="198" width="11" height="11" rx="2" fill="#1F242C"><title>0 contribuciones el 27 nov 2026</title></rect>
 <text x="623" y="251" class="sm">Menos</text>
 <rect x="657" y="242" width="11" height="11" rx="2" fill="#1F242C"/>
 <rect x="671" y="242" width="11" height="11" rx="2" fill="#7C2D12"/>
